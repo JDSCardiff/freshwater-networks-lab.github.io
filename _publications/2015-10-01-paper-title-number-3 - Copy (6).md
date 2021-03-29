@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "A catchment‐scale perspective of plastic pollution"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/catchment-plastic
+excerpt: 'A review of the sources, transfer, distribution and effects of plastic pollution in river catchments.'
+date: 2019-01-21
+venue: 'Global Change Biology'
+paperurl: 'https://doi.org/10.1111/gcb.14572'
+citation: 'Windsor, F.M., Durance, I., Horton, A.A., Thompson, R.C., Tyler, C.R. & Ormerod, S.J. (2019). &quot;A catchment‐scale perspective of plastic pollution.&quot; <i>Global Change Biology</i>. 25(4), 1207-1221.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+A review of the sources, transfer, distribution and effects of plastic pollution in river catchments.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1111/gcb.14572)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Windsor, F.M., Durance, I., Horton, A.A., Thompson, R.C., Tyler, C.R. & Ormerod, S.J. (2019). A catchment‐scale perspective of plastic pollution. <i>Global Change Biology</i>. 25(4), 1207-1221.
