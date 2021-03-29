@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Environment and food web structure interact to alter the trophic magnification of persistent chemicals across river ecosystems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Food-web-structure-POPs
+excerpt: 'This paper investigates how the structure of river food webs affects the transfer of POPs.'
+date: 2020-15-05
+venue: 'Science of the Total Environment'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0048969720307816'
+citation: 'Windsor, F.M., Pereira, M.G., Morrissey, C.A., Tyler, C.R. & Ormerod, S.J. (2020). &quot;Environment and food web structure interact to alter the trophic magnification of persistent chemicals across river ecosystems.&quot; <i>Science of the Total Environment</i>. 717, 137271.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper investigates how the structure of river food webs affects the transfer of POPs.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0048969720307816)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Windsor, F.M., Pereira, M.G., Morrissey, C.A., Tyler, C.R. & Ormerod, S.J. (2020). "Environment and food web structure interact to alter the trophic magnification of persistent chemicals across river ecosystems." <i>Science of the Total Environment</i>. 717, 137271.
