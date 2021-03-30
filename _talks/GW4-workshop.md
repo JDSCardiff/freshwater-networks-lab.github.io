@@ -1,5 +1,5 @@
 ---
-title: "Microplastics in the river environment"
+title: "Plastic pollution in the river environment"
 collection: talks
 type: "Workshop"
 permalink: /talks/GW4-workshop
