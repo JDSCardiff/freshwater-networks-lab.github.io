@@ -1,7 +1,7 @@
 ---
 title: "Microplastics in river environments"
 collection: talks
-type: "Talk"
+type: "Workshop"
 permalink: /talks/EA-workshop
 venue: "Environment Agency, Horizon House, Bristol"
 date: 2016-11-01
