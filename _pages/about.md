@@ -13,7 +13,8 @@ I am an ecosystem ecologist with interests in trait-based modelling, biomonitori
 Personal bio
 ======
 Blank...
-!["Alaska_FMW.JPG"]
+
+!["An Alaskan estuary"](images/Alaska_FMW.JPG)
 
 Working with me
 ======
