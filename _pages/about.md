@@ -10,14 +10,12 @@ redirect_from:
 
 I am an ecosystem ecologist with interests in trait-based modelling, biomonitoring, ecosystem structure and function, food web construction, network analysis, remote sensing and global data analysis. I look to apply broad-scale analyses to understand how natural and anthropogenic processes influence ecosystems. My recent research focuses on using ecosystem-scale techniques to better understand the effects of endocrine disrupting chemicals in freshwater ecosystems. Currently I am working as part of a Royal Society Global Challenges grant “Developing network ecology to understand and secure resilient food systems”. Among other roles I am an early career committee member of the European Federation of Freshwater Science.
 
-
 Personal bio
 ======
 
 I work on ecological networks in freshwater and terrestrial ecosystems. I have moved between the different ecosystems over my career thus far, but I have always looked to investigate biological communities and species interactions to understand ecosystems.
 
 Below is a brief summary of my research to date!
-
 High latitude and altitude stream systems
 -----
 
