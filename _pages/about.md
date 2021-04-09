@@ -16,6 +16,7 @@ Personal bio
 I work on ecological networks in freshwater and terrestrial ecosystems. I have moved between the different ecosystems over my career thus far, but I have always looked to investigate biological communities and species interactions to understand ecosystems.
 
 Below is a brief summary of my research to date!
+
 High latitude and altitude stream systems
 -----
 
@@ -29,7 +30,7 @@ Pollutant transfer and effects in river food webs
 -----
 
 
-Using network approaches to understand ecosystem structure and function
+Using networks to understand ecosystems
 -----
 
 
