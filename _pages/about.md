@@ -10,6 +10,7 @@ redirect_from:
 
 I am an ecosystem ecologist with interests in trait-based modelling, biomonitoring, ecosystem structure and function, food web construction, network analysis, remote sensing and global data analysis. I look to apply broad-scale analyses to understand how natural and anthropogenic processes influence ecosystems. My recent research focuses on using ecosystem-scale techniques to better understand the effects of endocrine disrupting chemicals in freshwater ecosystems. Currently I am working as part of a Royal Society Global Challenges grant “Developing network ecology to understand and secure resilient food systems”. Among other roles I am an early career committee member of the European Federation of Freshwater Science.
 
+
 Personal bio
 ======
 
@@ -25,6 +26,15 @@ My research career started with work in Denali National Park in Alaska (USA), in
 !["An Alaskan estuary"](images/Alaska_FMW.JPG)
 
 I am still very much interested in high altitude and high latitude river systems, and more recently I have been involved in work on streams in the Japanese Alps. These systems seem pretty unique in comparison to other alpine stream systems that have been studied previously. They are very variable, both hydrologically and ecologically, and it might be the unique environmental conditions that promote the high levels of endemism we see in these streams. But, we don't know! 
+
+Pollutant transfer and effects in river food webs
+-----
+
+
+Using network approaches to understand ecosystem structure and function
+-----
+
+
 
 Working with me
 ======
