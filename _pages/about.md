@@ -30,7 +30,7 @@ Pollutant transfer and effects in river food webs
 -----
 For my PhD research I worked on river food webs across South Wales, investigating whether the structure of aquatic trophic interactions was important in influencing both the transfer and effects of persistent pollutants. In a series of papers we showed that food webs differentially transferred pollutants through them. We also showed that persistent pollutants (e.g., PCBs, PBDEs and organochlorines), alongside other types of urban pollution, are responsible for hindering the full recovery of urban river ecosystems from past gross organic pollution.
 
-!["Summary of PhD research"](images/pollution_summary.JPG)
+!["Summary of PhD research"](images/pollution_summary.jpg)
 
 I've also been working on plastic pollution, specifically on how it interacts with organisms (mainly talking about ingestion and transfer through food webs). Our work has shown that by better understanding the interactions between organisms and plastic pollution we can accurately identify the environmental risks. For example we modelled the transfer of plastics through dippers (<i>Cinclus cinclus</i>) using the equation below. Where <i>dMB/dt</i> is the net flux of plastics being ingested or voided at a point in time <i>t</i> (day), <i>AE</i> is the assimilation efficiency of ingested prey (0.73), <i>Mi</i> is the mass of prey item <i>i</i> ingested at each time point (g/day), <i>CDi</i> is the concentration of plastic per unit mass of prey item <i>i</i>(particles/g dw), <i>KD</i> is the physical degradation of plastics within the dipper's gut and <i>KE</i> is the voiding rate through excretion (particles/g dw; see Table 1 for input data).
 
@@ -41,7 +41,7 @@ We have also been working to adjust global risk assessments of plastic pollution
 Using networks to understand ecosystems
 -----
 
-!["Global map of plant-herbivore networks"](images/FigureB1b.JPG)
+!["Global map of plant-herbivore networks"](images/FigureB1b.jpg)
 
 Working with me
 ======
