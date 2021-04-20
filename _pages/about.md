@@ -41,7 +41,7 @@ We have also been working to adjust global risk assessments of plastic pollution
 Using networks to understand ecosystems
 -----
 
-!["Global map of plant-herbivore networks"](images/FigureB1b.png)
+!["Global map of plant-herbivore networks"](images/FigureB1b.JPG)
 
 Working with me
 ======
