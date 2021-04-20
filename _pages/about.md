@@ -32,7 +32,7 @@ For my PhD research I worked on river food webs across South Wales, investigatin
 
 !["Summary of PhD research"](images/pollution_summary.jpg)
 
-I've also been working on plastic pollution, specifically on how it interacts with organisms (mainly talking about ingestion and transfer through food webs). Our work has shown that by better understanding the interactions between organisms and plastic pollution we can accurately identify the environmental risks. For example we modelled the transfer of plastics through dippers (<i>Cinclus cinclus</i>) using the equation below. Where <i>dMB/dt</i> is the net flux of plastics being ingested or voided at a point in time <i>t</i> (day), <i>AE</i> is the assimilation efficiency of ingested prey (0.73), <i>Mi</i> is the mass of prey item <i>i</i> ingested at each time point (g/day), <i>CDi</i> is the concentration of plastic per unit mass of prey item <i>i</i>(particles/g dw), <i>KD</i> is the physical degradation of plastics within the dipper's gut and <i>KE</i> is the voiding rate through excretion (particles/g dw; see Table 1 for input data).
+I've also been working on plastic pollution, specifically on how it interacts with organisms (mainly talking about ingestion and transfer through food webs). Our work has shown that by better understanding the interactions between organisms and plastic pollution we can accurately identify the environmental risks. For example we modelled the transfer of plastics through dippers (<i>Cinclus cinclus</i>) using the equation below. Where <i>dMB/dt</i> is the net flux of plastics being ingested or voided at a point in time <i>t</i> (day), <i>AE</i> is the assimilation efficiency of ingested prey (0.73), <i>Mi</i> is the mass of prey item <i>i</i> ingested at each time point (g/day), <i>CDi</i> is the concentration of plastic per unit mass of prey item <i>i</i> (particles/g dw), <i>KD</i> is the physical degradation of plastics within the dipper's gut and <i>KE</i> is the voiding rate through excretion (particles/g dw; see Table 1 for input data).
 
 !["Plastic mass flux equation"](images/plastic_equation.png)
 
@@ -40,8 +40,11 @@ We have also been working to adjust global risk assessments of plastic pollution
 
 Using networks to understand ecosystems
 -----
+My more recent work has looked to investigate wider ecological networks (e.g., trophic and non-trophic) across terrestrial and freshwater ecosystems. This ranges from investigating multilayer networks in agricultural systems through to mapping the global patterns of different networks (i.e., the figure below showing patterns in the connectance of plant-herbivore networks). 
 
 !["Global map of plant-herbivore networks"](images/FigureB1b.jpg)
+
+I mainly develop analyses and tools to understand how the structure of networks translates into certain functions, and in turn how this affects the provision of ecosystem services.
 
 Working with me
 ======
