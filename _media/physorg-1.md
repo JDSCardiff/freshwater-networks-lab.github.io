@@ -4,7 +4,7 @@ collection: media
 type: "Online"
 permalink: /media/physorg-1
 date: 2018-09-19
-outlet: "Phys.org"
+venue: "Phys.org"
 ---
 
 An article on the manuscript "Microplastic ingestion by riverine macroinvertebrates" in <i>Science of the Total Environment</i>.
