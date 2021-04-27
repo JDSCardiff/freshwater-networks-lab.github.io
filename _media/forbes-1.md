@@ -4,7 +4,7 @@ collection: media
 type: "Online"
 permalink: /media/forbes-1
 date: 2018-09-29
-outlet: "Forbes"
+venue: "Forbes"
 ---
 
 An article on the manuscript "Microplastic ingestion by riverine macroinvertebrates" in <i>Science of the Total Environment</i>.
