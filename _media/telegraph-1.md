@@ -10,4 +10,4 @@ location: "Global"
 
 An article about the manuscript "Food-web transfers of plastics to an apex riverine predator" in <i>Global Change Biology</i>. 
 
-See: https://www.bbc.co.uk/news/science-environment-52062158
+See:https://www.telegraph.co.uk/news/2020/05/22/scientists-discover-first-evidence-plastic-moving-different/
