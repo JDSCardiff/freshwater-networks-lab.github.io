@@ -8,6 +8,6 @@ venue: "Salmon and Trout Conservation Trust"
 location: "Global"
 ---
 
-A summary of our research on plastic pollution. 
+A summary of our research on plastic pollution, including a review of plastics across catchments and the primary data we collected on plastics in aquatic macroinvertebrates and river birds. 
 
 See: https://www.salmon-trout.org/campaigns/living-rivers/plastic-pollution/
