@@ -17,14 +17,13 @@ I work on ecological networks in freshwater and terrestrial ecosystems. I have m
 
 Below is a brief summary of my research to date!
 
-High latitude and altitude stream systems
+Using networks to understand ecosystems
 -----
+My more recent work has looked to investigate wider ecological networks (e.g., trophic and non-trophic) across terrestrial and freshwater ecosystems. This ranges from investigating multilayer networks in agricultural systems through to mapping the global patterns of different networks (i.e., the figure below showing patterns in the connectance of plant-herbivore networks). 
 
-My research career started with work in Denali National Park in Alaska (USA), investigating the composition of macroinvertebrate communities in groundwater fed streams that emerged from ancient river terraces in glaciated catchments.
+!["Global map of plant-herbivore networks"](images/FigureB1b.jpg)
 
-!["An Alaskan estuary"](images/Alaska_FMW.JPG)
-
-I am still very much interested in high altitude and high latitude river systems, and more recently I have been involved in work on streams in the Japanese Alps. These systems seem pretty unique in comparison to other alpine stream systems that have been studied previously. They are very variable, both hydrologically and ecologically, and it might be the unique environmental conditions that promote the high levels of endemism we see in these streams. But, we don't know! 
+I mainly develop analyses and tools to understand how the structure of networks translates into certain functions, and in turn how this affects the provision of ecosystem services.
 
 Pollutant transfer and effects in river food webs
 -----
@@ -38,13 +37,14 @@ I've also been working on plastic pollution, specifically on how it interacts wi
 
 We have also been working to adjust global risk assessments of plastic pollution based on how it interacts with animals. This was the start of my global-scale research. Since then I have also made use of global water chemistry data to understand how the environmental conditions present in freshwater ecosystems may influence the toxity of pollutants.
 
-Using networks to understand ecosystems
+High latitude and altitude stream systems
 -----
-My more recent work has looked to investigate wider ecological networks (e.g., trophic and non-trophic) across terrestrial and freshwater ecosystems. This ranges from investigating multilayer networks in agricultural systems through to mapping the global patterns of different networks (i.e., the figure below showing patterns in the connectance of plant-herbivore networks). 
 
-!["Global map of plant-herbivore networks"](images/FigureB1b.jpg)
+My research career started with work in Denali National Park in Alaska (USA), investigating the composition of macroinvertebrate communities in groundwater fed streams that emerged from ancient river terraces in glaciated catchments.
 
-I mainly develop analyses and tools to understand how the structure of networks translates into certain functions, and in turn how this affects the provision of ecosystem services.
+!["An Alaskan estuary"](images/Alaska_FMW.JPG)
+
+I am still very much interested in high altitude and high latitude river systems, and more recently I have been involved in work on streams in the Japanese Alps. These systems seem pretty unique in comparison to other alpine stream systems that have been studied previously. They are very variable, both hydrologically and ecologically, and it might be the unique environmental conditions that promote the high levels of endemism we see in these streams. But, we don't know! 
 
 Working with me
 ======
