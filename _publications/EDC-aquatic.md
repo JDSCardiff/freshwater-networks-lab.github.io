@@ -11,5 +11,3 @@ citation: '<b>Windsor, F.M.</b>, Ormerod, S.J. & Tyler, C.R. (2018). &quot;Endoc
 A review of the effects of endocrine disruption in aquatic environments, focusing on how effects upscale from individuals to ecosystems.
 
 [Download paper here](https://doi.org/10.1111/brv.12360)
-
-Recommended citation: Windsor, F.M., Ormerod, S.J. & Tyler, C.R. (2018). Endocrine disruption in aquatic systems: up‐scaling research to address ecological consequences <i>Biological Reviews 1</i>. 93(1), 626-641.
