@@ -11,5 +11,3 @@ citation: '<b>Windsor, F.M.</b>, Pereira, M.G., Morrissey, C.A., Tyler, C.R. & O
 This paper investigates how the structure of river food webs affects the transfer of POPs.
 
 [Download paper here](https://doi.org/10.1016/j.scitotenv.2020.137271)
-
-Recommended citation: Windsor, F.M., Pereira, M.G., Morrissey, C.A., Tyler, C.R. & Ormerod, S.J. (2020). "Environment and food web structure interact to alter the trophic magnification of persistent chemicals across river ecosystems." <i>Science of the Total Environment</i>. 717, 137271.
