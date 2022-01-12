@@ -2,7 +2,7 @@
 title: "Identifying plant mixes for multiple ecosystem service provision in agricultural systems using ecological networks"
 collection: publications
 permalink: /publication/gene-algo
-excerpt: 'Identifying plant mixes for multiple ecosystem service provision in agricultural systems using ecological networks'
+excerpt: 'A data paper detailing a multilayer genetic algorithm that can be used to select mixes of plant species that can provide multiple ecosystem services simultaneously.'
 date: 2021-09-01
 venue: 'Journal of Applied Ecology'
 paperurl: 'https://doi.org/10.1111/1365-2664.14007'
