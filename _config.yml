@@ -84,10 +84,10 @@ author:
   avatar           : "FMW_close.png"
   bio              : "I am an ecosystem ecologist specifically interested in ecological networks"
   location         : # "Location"
-  employer         : "Newcastle University"
+  employer         : "Cardiff University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Windsor+FM"
   googlescholar    : "https://scholar.google.com/citations?user=KapuaMQAAAAJ&hl=en"
-  email            : "fredric.windsor@ncl.ac.uk"
+  email            : "windsorfm@cardiff.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Fredric_Windsor"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/fredric-windsor/"
   orcid            : "https://orcid.org/0000-0001-5030-3470"
   pinterest        :
   soundcloud       :
