@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Fred Windsor"
+title                    : "Fresh Net Lab"
 title_separator          : "-"
-name                     : &name "Fred Windsor"
-description              : &description "personal description"
-url                      : https://fmwindsor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fresh Net Lab"
+description              : &description "Lab description"
+url                      : https://freshwater-networks-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fmwindsor/fmwindsor.github.io"
+repository               : "Freshwater-Networks-Lab/freshwater-networks-lab.github.io"
 teaser                   : "Alaska_FMW.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "Fred_Windsor"
+  username               : &twitter "FreshNetLab"
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Short bio"
   avatar           : "FMW_close.png"
-  bio              : "I am an ecosystem ecologist specifically interested in ecological networks"
+  bio              : "We are a group of researchers interested in ecological networks"
   location         : # "Location"
   employer         : "Cardiff University"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Windsor+FM"
-  googlescholar    : "https://scholar.google.com/citations?user=KapuaMQAAAAJ&hl=en"
+  pubmed           : 
+  googlescholar    : 
   email            : "windsorfm@cardiff.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Fredric_Windsor"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fmwindsor"
+  github           : "Freshwater-Network-Lab"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fredric-windsor/"
-  orcid            : "https://orcid.org/0000-0001-5030-3470"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Fred_Windsor"
+  twitter          : "@FreshNetLab"
   vine             :
   weibo            :
   xing             :
