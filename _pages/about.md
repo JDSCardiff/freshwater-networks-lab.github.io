@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Freshwater Networks Laboratory"
+title: "Fresh(water) Networks Laboratory"
 excerpt: "About the group"
 author_profile: true
 redirect_from: 
@@ -16,4 +16,4 @@ Interested in understanding networks in either aquatic or terrestrial ecosystems
 
 For more info
 ======
-Send me an email: windsorfm@cardiff.ac.uk
+Send us an email: windsorfm@cardiff.ac.uk (Fred Windsor - Group Lead)
